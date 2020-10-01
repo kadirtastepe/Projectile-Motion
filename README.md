@@ -16,7 +16,7 @@ Calculating Energy:
 
 <img src="http://latex.codecogs.com/svg.latex?E_K(t)&space;=&space;\frac{1}{2}m[x'(t)^2&plus;y'(t)^2]&space;,&space;\;&space;\;&space;E_U(t)&space;=&space;mgy(t)" title="http://latex.codecogs.com/svg.latex?E_K(t) = \frac{1}{2}m[x'(t)^2+y'(t)^2] , \; \; E_U(t) = mgy(t)" />
 
-##Animation and Change in energy with respect to time:
+## Animation and Change in energy with respect to time:
 
 ![projectile-motion](https://github.com/kadirtastepe/Projectile-Motion/blob/master/projectile-motion.GIF)
 
