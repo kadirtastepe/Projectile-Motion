@@ -18,7 +18,7 @@ Calculating Energy:
 
 ## Animation and Change in energy with respect to time:
 
-![projectile-motion](https://github.com/kadirtastepe/Projectile-Motion/blob/master/projectile-motion.GIF)
+![projectile-motion](https://github.com/kadirtastepe/Projectile-Motion/blob/main/projectile-motion.GIF)
 
 # Licence
 Released under licence: the GPL version 3 license.
